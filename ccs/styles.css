@@ -1,0 +1,30 @@
+:root {
+  --primary-text-color: #757575;
+  --secondary-text-color: #000;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --address-text-color: #rgba(255, 255, 255, 0.6);
+  --active-button-color: #188ce8;
+  --primery-background-color: #fff;
+  --main-backgraund-color: #f5f4fa;
+  --footer-background-color: #2f303a;
+}
+.body {
+  font-family: Roboto, sans-setif;
+  color: var(--primary-text-color);
+}
+/* Hero */
+
+.hero-title {
+  color: var(--primery-background-color);
+}
+.hero-link {
+  color: var(--primery-background-color);
+}
+/* Section */
+.section-title {
+  color: #ffffff;
+}
+.feature-list .title {
+  color: var(--title-text-color);
+}
