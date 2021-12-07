@@ -28,3 +28,23 @@
 .feature-list .title {
   color: var(--title-text-color);
 }
+/*  */
+.site-nav .hero-link {
+  color: var(--accent-color);
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: var(--title-text-color);
+}
+.site-nav .link.current {
+  color: var(--accent-color);
+}
+/* Button */
+.button {
+  color: var(--title-text-color);
+  background-color: var(--primery-background-color);
+}
+.button.primary {
+  color: var(--primery-background-color);
+  background-color: var(--accent-color);
+}
